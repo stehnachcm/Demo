@@ -14,3 +14,6 @@ This is bound to cause trouble!
 
 Something more going on - stashing.
 
+Updates in stage - whatever that means.
+More updates in working directory.
+
